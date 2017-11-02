@@ -36,7 +36,6 @@ article:last-of-type {
     #nav ul li {
       margin: 5px;
     }
-}
 
 @media screen and (min-width:1000px) {
   article {
