@@ -24,6 +24,10 @@ article:last-of-type {
         justify-content: space-between;
     }
 
+    .menu-trigger {
+        display: none;
+    }
+
 }
 
 @media screen and (min-width: 600px) {
@@ -31,6 +35,10 @@ article:last-of-type {
     #container {
         width: 80%;
     }
+    .menu-trigger {
+        display: none;
+    }
+
 }
 
     #nav ul li {

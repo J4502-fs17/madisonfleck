@@ -24,6 +24,13 @@ body {
   text-align: center;
 }
 
+.menu-trigger {
+    order: 1;
+    font-size: 1.75em;
+    width: 2em;
+}
+
+
 #container {
   /*margin-top: 0;
   margin-right: auto;
